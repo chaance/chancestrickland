@@ -1,1 +1,1 @@
-<h1 style="text-align: center; margin: 1em 0;">Fancy seeing you here</h1>
+<br /><center><h1>Fancy seeing you here</h1></center><br />
